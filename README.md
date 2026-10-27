@@ -1,64 +1,72 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:4c1d95,100:a78bfa&height=200&section=header&text=Manish%20Dev&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Applied%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Manish Dev — Software Engineer · Applied AI" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Software+Engineer+%C2%B7+Applied+AI;Full-stack+products+that+ship;RAG%2C+NLP+%26+document+AI" alt="Software Engineer · Applied AI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=shipping+full-stack+products+for+real+clients;building+RAG+%26+document-AI+pipelines;turning+ideas+into+things+that+run" alt="typing intro" />
 
-**Kota Manish Dev** · Hyderabad, India
+<br/><br/>
 
-I build production software where full-stack engineering meets applied AI —
-from Go + React platforms running for real clients to NLP pipelines that read insurance PDFs.
-
-[![Portfolio](https://img.shields.io/badge/kotamanish.dev-2e2a26?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kotamanish.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishdev-kota/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotamanishdev05@gmail.com)
-![Open to work](https://img.shields.io/badge/Open_to-full--time_%26_freelance-22c55e?style=for-the-badge)
+<a href="https://kotamanish.dev"><img src="https://img.shields.io/badge/portfolio-a78bfa?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/manishdev-kota/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:kotamanishdev05@gmail.com"><img src="https://img.shields.io/badge/email-1f1f1f?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-### ⚡ At a glance
-
-- 🏭 **In production** — built JobTrack, the project & task system a garment manufacturer runs on (React · Go · PostgreSQL · AWS)
-- 🌐 **2 live client sites** — [samarthaschool.co.in](https://samarthaschool.co.in) and [premiarealty.bh](https://premiarealty.bh)
-- 📄 **Document AI** — NLP/OCR pipelines turning 50+ insurance PDF templates into structured JSON/XSD (Nubes Opus × NAIC)
-- 🧠 **Patent application** — Edge-AI embedded system for vehicle accident detection (IN 202541082649, published Aug 2025)
-- 🎓 Integrated M.Tech CSE, VIT Vellore '26
-
-### 🛠️ Stack
+<h3 align="center">tech</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,ts,java,cs,react,tailwind,vite,django,fastapi&perline=10" alt="Languages and frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,aws,nginx,linux,pytorch,tensorflow,firebase,git&perline=10" alt="Data, infra and ML" />
+  <img src="https://skillicons.dev/icons?i=py,go,ts,react,tailwind,postgres,docker,aws,pytorch,linux&theme=dark" alt="stack" />
 </p>
 
-<p align="center"><sub>LangChain · ChromaDB · Hugging Face · Sentence-Transformers · RAG · OCR · CUDA / cuML · Groq · Ollama · Playwright · GSAP</sub></p>
+<br/>
 
-### 🚀 Featured work
+<h3 align="center">selected work</h3>
 
-| Project | What it is | Built with |
-|---|---|---|
-| **JobTrack** · *private, in production* | Enterprise project & task management for a garment manufacturer — 15+ table schema, S3 presigned media, automated backups on EC2 | React 18 · TS · Go · PostgreSQL · AWS · Nginx |
-| [**NeuroForge**](https://github.com/Echo2f13/NeuroForge) | Local-first RAG study assistant — Llama 3.3 70B with failover, ChromaDB + knowledge-graph hybrid retrieval → quizzes, flashcards, notes | Python · LangChain · ChromaDB · Groq · Pydantic |
-| [**Samartha School**](https://samarthaschool.co.in) · *live* | CBSE school site + admin: 19 pages, TC lookup, 21 content types; Go, ported to PHP/SQLite for cPanel | Go · PHP · SQLite · GitHub Actions |
-| [**Premia Realty**](https://premiarealty.bh) · *live* | Bilingual EN/AR luxury real-estate site for Bahrain with interactive property map | React · Tailwind · GSAP · Leaflet · Firebase |
-| [**FreeFlow for Windows**](https://github.com/Echo2f13/freeflow) | Windows port of an open-source Wispr Flow alternative — hotkey dictation, AI cleanup, tray app; PR'd upstream | C# · .NET 8 · WPF · Groq |
-| [**Naukri Auto-Apply**](https://github.com/Echo2f13/naukri-autoapply) | Autonomous job search: discovers roles across 4 sources, scores fit with a local LLM, applies via job boards & ATS | Node.js · Playwright · Prisma · Ollama |
-| [**Click Run**](https://github.com/Echo2f13/click-RUN) | Tray app that auto-accepts Run/Allow prompts in AI coding tools via Windows UI Automation — <50 MB, <1% CPU | C# · .NET 8 · UI Automation |
-| [**SyncWatch**](https://github.com/Echo2f13/syncwatch-extension) | Watch any HTML5 video in sync with friends — P2P WebRTC, <100 ms drift, no database | JS · WebRTC · Manifest V3 |
-| [**Cyberbullying Bot**](https://github.com/Echo2f13/bully-det-discord) | Real-time Discord moderation, TF-IDF + SVM at 90.92% on 22K+ samples (benchmarked vs RF & BERT) | Python · scikit-learn · CUDA · BERT |
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-### 💼 Experience
+**JobTrack**&nbsp;&nbsp;<sub>`in production`</sub>
 
-| | |
-|---|---|
-| **Nubes Opus** — Software Development Intern | Sep 2025 – Aug 2026 · NLP/OCR document pipelines for NAIC insurance filings |
-| **SmartBridge** — AI Intern | Jun – Jul 2024 · TensorFlow/Keras models, +15% accuracy on 10K+ samples |
-| **Reinvision Labs** — Backend Intern | May – Jul 2023 · 10+ Django/PostgreSQL APIs, ~30% faster responses |
+<sub>Project & task platform a garment manufacturer runs on.</sub>
 
-<div align="center">
+<sub>`React` `Go` `PostgreSQL` `AWS`</sub>
 
----
+</td>
+<td width="50%" valign="top">
 
-<sub>Always building something. Say hi → <a href="mailto:kotamanishdev05@gmail.com">kotamanishdev05@gmail.com</a></sub>
+[**NeuroForge**](https://github.com/Echo2f13/NeuroForge)
 
-</div>
+<sub>Local-first RAG study assistant on Llama 3.3 70B.</sub>
+
+<sub>`Python` `LangChain` `ChromaDB`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[**Click Run**](https://github.com/Echo2f13/click-RUN)
+
+<sub>Auto-accepts prompts in AI coding tools. One tiny .exe.</sub>
+
+<sub>`C#` `.NET 8` `UI Automation`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+[**SyncWatch**](https://github.com/Echo2f13/syncwatch-extension)
+
+<sub>Watch any video in sync with friends, peer-to-peer.</sub>
+
+<sub>`JavaScript` `WebRTC`</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>live sites → <a href="https://samarthaschool.co.in">samarthaschool.co.in</a> · <a href="https://premiarealty.bh">premiarealty.bh</a></sub></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:4c1d95,100:0f0c29&height=110&section=footer" width="100%" alt="" />
