@@ -1,72 +1,48 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:4c1d95,100:a78bfa&height=200&section=header&text=Manish%20Dev&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Applied%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Manish Dev — Software Engineer · Applied AI" />
+<br/>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2800&pause=1400&color=C4B5FD&center=true&vCenter=true&width=480&lines=%CB%9A+%E0%BC%98+%E2%8B%86+hi%2C+i+build+things+that+run+%E2%8B%86+%E0%BC%98+%CB%9A;full-stack+%C2%B7+applied+ai+%C2%B7+hyderabad;currently+shipping+for+real+clients" alt="hi, i build things that run" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=shipping+full-stack+products+for+real+clients;building+RAG+%26+document-AI+pipelines;turning+ideas+into+things+that+run" alt="typing intro" />
-
-<br/><br/>
-
-<a href="https://kotamanish.dev"><img src="https://img.shields.io/badge/portfolio-a78bfa?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/manishdev-kota/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:kotamanishdev05@gmail.com"><img src="https://img.shields.io/badge/email-1f1f1f?style=flat-square&logo=gmail&logoColor=white" /></a>
-
-</div>
+<p align="center"><sub>⋆⋅☆⋅⋆ ── ⋆⋅☆⋅⋆ ── ⋆⋅☆⋅⋆</sub></p>
 
 <br/>
 
-<h3 align="center">tech</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,ts,react,tailwind,postgres,docker,aws,pytorch,linux&theme=dark" alt="stack" />
+  ⟡ &nbsp;<b>currently</b>&nbsp; <sub>turning messy pdfs into clean data with nlp</sub><br/>
+  ⟡ &nbsp;<b>building</b>&nbsp; <sub>rag tools, tiny windows apps, client sites</sub><br/>
+  ⟡ &nbsp;<b>open to</b>&nbsp; <sub>full-time & freelance</sub>
 </p>
 
 <br/>
 
-<h3 align="center">selected work</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,go,ts,react,tailwind,postgres,docker,aws,pytorch&theme=dark&perline=9" alt="stack" />
+</p>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-**JobTrack**&nbsp;&nbsp;<sub>`in production`</sub>
+<p align="center"><sub>⋆⋅☆⋅⋆ ── things i've made ── ⋆⋅☆⋅⋆</sub></p>
 
-<sub>Project & task platform a garment manufacturer runs on.</sub>
+<p align="center">
+  <sub>
+  <b>jobtrack</b> <i>(in production)</i> &nbsp;·&nbsp;
+  <a href="https://github.com/Echo2f13/NeuroForge"><b>neuroforge</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/Echo2f13/click-RUN"><b>click run</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/Echo2f13/syncwatch-extension"><b>syncwatch</b></a> &nbsp;·&nbsp;
+  <a href="https://samarthaschool.co.in"><b>samartha</b></a> &nbsp;·&nbsp;
+  <a href="https://premiarealty.bh"><b>premia</b></a>
+  </sub>
+</p>
 
-<sub>`React` `Go` `PostgreSQL` `AWS`</sub>
+<br/>
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://kotamanish.dev"><sub>portfolio</sub></a> &nbsp;˚₊‧&nbsp;
+  <a href="https://www.linkedin.com/in/manishdev-kota/"><sub>linkedin</sub></a> &nbsp;˚₊‧&nbsp;
+  <a href="mailto:kotamanishdev05@gmail.com"><sub>email</sub></a>
+</p>
 
-[**NeuroForge**](https://github.com/Echo2f13/NeuroForge)
+<br/>
 
-<sub>Local-first RAG study assistant on Llama 3.3 70B.</sub>
-
-<sub>`Python` `LangChain` `ChromaDB`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-[**Click Run**](https://github.com/Echo2f13/click-RUN)
-
-<sub>Auto-accepts prompts in AI coding tools. One tiny .exe.</sub>
-
-<sub>`C#` `.NET 8` `UI Automation`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-[**SyncWatch**](https://github.com/Echo2f13/syncwatch-extension)
-
-<sub>Watch any video in sync with friends, peer-to-peer.</sub>
-
-<sub>`JavaScript` `WebRTC`</sub>
-
-</td>
-</tr>
-</table>
-
-<p align="center"><sub>live sites → <a href="https://samarthaschool.co.in">samarthaschool.co.in</a> · <a href="https://premiarealty.bh">premiarealty.bh</a></sub></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:4c1d95,100:0f0c29&height=110&section=footer" width="100%" alt="" />
+<p align="center"><sub><i>⋆ thanks for stopping by ⋆</i></sub></p>
